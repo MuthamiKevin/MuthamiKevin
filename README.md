@@ -1,7 +1,7 @@
 ### Hi there 👋
+I'm Kevin Muthami. I'm a talented full stack developer with a strong passion for backend development. I have a deep understanding of server-side technologies and framework. I specializes in architecting robust and scalable backend systems. From designing databases to implementing complex business logic, I excel in crafting efficient solutions that power the core functionality of web applications. I have a keen eye for optimization and a commitment to delivering high-quality code. I'm always eager to tackle new challenges and push the boundaries of backend development.
 
-<!--
-**MuthamiKevin/MuthamiKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuthamiKevin)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
