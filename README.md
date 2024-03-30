@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Muthami</h1>
-<h3 align="center">I'm a talented full stack developer with a strong passion for backend development. I have a deep understanding of server-side technologies and framework. I specializes in architecting robust and scalable backend systems. From designing databases to implementing complex business logic, I excel in crafting efficient solutions that power the core functionality of web applications. I have a keen eye for optimization and a commitment to delivering high-quality code. I'm always eager to tackle new challenges and push the boundaries of backend development.</h3>
+<h3 align="center">I'm an aspiring Software developer with a strong passion for backend development. .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthamikevin&label=Profile%20views&color=0e75b6&style=flat" alt="muthamikevin" /> </p>
 
