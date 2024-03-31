@@ -12,7 +12,7 @@
 - 📫 How to reach me **muthamikevin80@gmail.com**
 
 - ⚡ Fun fact **I'm introverted**
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ecc1ce76-a386-4e3e-b4a2-b3537e276db7/deploy-status)](https://app.netlify.com/sites/muthamikevin/deploys)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin-muthami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-muthami" height="30" width="40" /></a>
