@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthamikevin&label=Profile%20views&color=0e75b6&style=flat" alt="muthamikevin" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
